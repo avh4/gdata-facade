@@ -10,7 +10,7 @@
     <packaging>jar</packaging>
 
     <name>gdata</name>
-    <description></description>
+    <description>Facade for Google Data API to facailitate unit testing</description>
     <url>http://github.com/avh4/gdata-facade</url>
 
     <properties>
