@@ -1,5 +1,5 @@
 ---
-package : com.example
-project : my-project
-description : ~
-project_url : ~
+package : net.avh4.facade
+project : gdata
+description : Facade for Google Data API to facailitate unit testing
+project_url : http://github.com/avh4/gdata-facade
